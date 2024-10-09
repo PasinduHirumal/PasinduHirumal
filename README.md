@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Pasindu Hrumal
+Hi, I'm Pasindu Hirumal 👋
+
+I hold a diploma in Software Engineering and have a keen interest in UI/UX design and Web Development. My focus is on building user-friendly and visually appealing web applications, particularly using React.
+
+I’m always eager to learn new technologies and improve my skills to create impactful digital experiences. Let's connect and collaborate!
 
 
 ## 🌐 Socials:
