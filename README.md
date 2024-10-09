@@ -13,7 +13,7 @@
 </p>
 
 <h2>💻 Tech Stack:</h2>
-<div style="text-align:center">
+<div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -34,11 +34,11 @@
 </div>
 
 <h2>📊 GitHub Stats:</h2>
-<div style="text-align:center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PasinduHirumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduHirumal&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
-<div style="text-align:center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduHirumal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
