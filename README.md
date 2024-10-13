@@ -11,6 +11,7 @@
   <a href="https://x.com/@HirumalP"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)"/></a>
   <a href="https://codepen.io/P-Hirumal"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
 </p>
+</hr>
 
 <picture>
   <source
@@ -26,6 +27,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</hr>
 
 <h2>💻 Tech Stack:</h2>
 <div align="center">
