@@ -3,15 +3,6 @@
 <p>I hold a diploma in Software Engineering and have a keen interest in UI/UX design and Web Development. My focus is on building user-friendly and visually appealing web applications, particularly using React.</p>
 <p>I’m always eager to learn new technologies and improve my skills to create impactful digital experiences. Let's connect and collaborate!</p>
 
-<h2>🌐 Socials:</h2>
-<p>
-  <a href="https://discord.gg/26941006315799"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://linkedin.com/in/pasindu-hirumal-b0a37029b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://pinterest.com/pasinduhirumal"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/></a>
-  <a href="https://x.com/@HirumalP"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)"/></a>
-  <a href="https://codepen.io/P-Hirumal"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
-</p>
-
 <hr/>
 <picture>
   <source
@@ -28,6 +19,15 @@
   />
 </picture>
 <hr/>
+
+<h2>🌐 Socials:</h2>
+<p>
+  <a href="https://discord.gg/26941006315799"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://linkedin.com/in/pasindu-hirumal-b0a37029b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://pinterest.com/pasinduhirumal"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="https://x.com/@HirumalP"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)"/></a>
+  <a href="https://codepen.io/P-Hirumal"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
+</p>
 
 <h2>💻 Tech Stack:</h2>
 <div align="center">
