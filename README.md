@@ -3,7 +3,6 @@
 <p>I hold a diploma in Software Engineering and have a keen interest in UI/UX design and Web Development. My focus is on building user-friendly and visually appealing web applications, particularly using React.</p>
 <p>I’m always eager to learn new technologies and improve my skills to create impactful digital experiences. Let's connect and collaborate!</p>
 
-<hr/>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -18,7 +17,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<hr/>
 
 <h2>🌐 Socials:</h2>
 <p>
